@@ -14,11 +14,6 @@ public class Calc {
 	}
 	
 	
-	public void Mul(int num1,int num2)
-	{
-		System.out.println("Mul= "+ (num1*num2));
-		System.out.println("hello");
-	}
 	
 	
 	
